@@ -14,7 +14,7 @@ import isolearn.keras as iso
 
 import numpy as np
 
-from genesis.generator import sample_pwm, max_pwm
+#from genesis.generator import sample_pwm, max_pwm
 
 
 #GENESIS loss helper functions
